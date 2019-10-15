@@ -24,3 +24,13 @@ All examples checked on
 7. Example how to use Tensorboard, more details: https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html#visualizing-models-data-and-training-with-tensorboard
 
 8.
+
+
+
+### Links:
+
+1. Model summary:
+https://github.com/sksq96/pytorch-summary
+
+2. Progress bar (actually same as `tqdm`):
+https://github.com/yusugomori/barbar
