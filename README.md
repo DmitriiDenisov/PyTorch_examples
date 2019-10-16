@@ -22,6 +22,8 @@
 
 ![sad](https://media.proglib.io/wp-uploads/2019/02/Graphs.jpg)
 
+Something more [RUS]: https://proglib.io/p/dl-frameworks/
+
 ### Dependencies
 All examples checked on 
 `torch==1.2.0`
