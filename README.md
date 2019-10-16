@@ -6,10 +6,9 @@
 2. `02_autograd_tutorial.ipynb` - explanation how Automatic Differentiation works in PyTorch with examples
 
 3. `03_neural_networks_tutorial.ipynb` - how to define a model, loss function, backprop, update weights
-  
-  3.1 `03_1_Fast_example_MNIST.ipynb` - fast example for classifying task on MNIST dataset 
-  
-  3.2 `03_2_MNIST_with_visualization.ipynb` - example of classifying on MNIST with visualizations, graphs and etc.
+
+ + `03_1_Fast_example_MNIST.ipynb` - fast example for classifying task on MNIST dataset 
+ + `03_2_MNIST_with_visualization.ipynb` - example of classifying on MNIST with visualizations, graphs and etc.
 
 4. `04_cifar10_tutorial.ipynb` - example of classifying task on CIfar10 dataset
 
