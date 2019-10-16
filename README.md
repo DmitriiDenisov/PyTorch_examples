@@ -18,6 +18,10 @@
 
 7. `07_tensorboard_tutorial-checkpoint.ipynb` - example how to use TensorBoard with PyTorch.
 
+### Difference between TF and PyTorch:
+
+![sad](https://media.proglib.io/wp-uploads/2019/02/Graphs.jpg)
+
 ### Dependencies
 All examples checked on 
 `torch==1.2.0`
