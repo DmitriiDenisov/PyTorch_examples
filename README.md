@@ -1,23 +1,14 @@
 # PyTorch_examples
 
 ### Content:
-
-
-1. Первый пункт нумерованного списка
-2. Второй пункт
-  * Ненумерованный вложенный список.
-1. Сами числа не имеют значения, лишь бы это были цифры
-  1. Нумерованный вложенный список
-4. И еще один пункт.
-
 1. `01_tensor_tutorial.ipynb` - what is PyTorch,  numpy bridge, how to use CUDA
 
 2. `02_autograd_tutorial.ipynb` - explanation how Automatic Differentiation works in PyTorch with examples
 
 3. `03_neural_networks_tutorial.ipynb` - how to define a model, loss function, backprop, update weights
 
- 1. `03_1_Fast_example_MNIST.ipynb` - fast example for classifying task on MNIST dataset 
- 2. `03_2_MNIST_with_visualization.ipynb` - example of classifying on MNIST with visualizations, graphs and etc.
+   1. `03_1_Fast_example_MNIST.ipynb` - fast example for classifying task on MNIST dataset 
+   2. `03_2_MNIST_with_visualization.ipynb` - example of classifying on MNIST with visualizations, graphs and etc.
 
 4. `04_cifar10_tutorial.ipynb` - example of classifying task on CIfar10 dataset
 
