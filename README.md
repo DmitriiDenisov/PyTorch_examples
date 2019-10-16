@@ -23,6 +23,8 @@
 ![sad](https://media.proglib.io/wp-uploads/2019/02/Graphs.jpg)
 
 Something more [RUS]: https://proglib.io/p/dl-frameworks/
+Something more [ENG]: https://medium.com/@UdacityINDIA/tensorflow-or-pytorch-the-force-is-strong-with-which-one-68226bb7dab4
+Something more [ENG]: https://www.youtube.com/watch?v=DmI58jz2i6w
 
 ### Dependencies
 All examples checked on 
