@@ -4,6 +4,7 @@
 1. `01_tensor_tutorial.ipynb` - what is PyTorch,  numpy bridge, how to use CUDA
 
 2. `02_autograd_tutorial.ipynb` - explanation how Automatic Differentiation works in PyTorch with examples
+   1. `02_1_optimization_custom_function.ipynb` - example how to optimize in PyTorch custom functions
 
 3. `03_neural_networks_tutorial.ipynb` - how to define a model, loss function, backprop, update weights
 
